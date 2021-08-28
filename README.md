@@ -23,13 +23,16 @@ To follow the examples in this course, you can copy and paste the code snippets 
 4. Describe Information in DataFrames
 5. Understand Data Types
 6. Data Cleaning in Pandas
-    * Split & Merge Columns
-    * Change Columns DataType
-    * Rename Columns
-    * Drop Rows and Columns
-    * Manipulate text content
+   * Split Column Values
+   * Replace Strings
+   * Change Column DataType
+   * Drop Rows and Columns
+   * Rename Columns
 7. Pandas Merging & Joining Data
 8. Data Accessing & Aggregation
+   * Select Data by Row, Column and Index
+   * Filter Data with Conditions	
+   * Group and Sort Data	
 9. Pandas Data Visualization
 10. Pandas Analysis Project
     * Collect Data From Multiple Sources
